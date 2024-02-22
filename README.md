@@ -2,7 +2,7 @@
 
 ## Aprendendo a editar o README
 
-abaixor esta o desenho do franguinho dançando! é só isso por hora.. mas não parar por aqui.
+abaixo esta o desenho do franguinho dançando! é só isso por hora.. mas não parar por aqui.
 
 ![Gif animado do franguinho dançado](https://github.com/EzequiasBR/curso-GIT-e-GITHUB/blob/main/franguinho.gif)
 
